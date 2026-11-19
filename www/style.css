@@ -1,0 +1,207 @@
+:root {
+  --ground: #faf8f4;
+  --panel: #ffffff;
+  --ink: #17150f;
+  --ink-soft: #6f6a5e;
+  --line: #e5e0d4;
+  --accent: #8c2f1b;
+  --ok: #2e6b3f;
+  --serif: Georgia, "Times New Roman", serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ground: #161512;
+    --panel: #1e1c18;
+    --ink: #ece7db;
+    --ink-soft: #97917f;
+    --line: #33302a;
+    --accent: #e0704f;
+    --ok: #6fbf85;
+  }
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--ground);
+  color: var(--ink);
+  font-family: var(--sans);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+#app { max-width: 760px; margin: 0 auto; padding: 20px 16px 60px; }
+.loading { color: var(--ink-soft); text-align: center; margin-top: 40vh; }
+
+/* ---- домашний экран ---- */
+.home-head { text-align: center; margin: 28px 0 26px; }
+.kanji { font-size: 44px; letter-spacing: 6px; color: var(--accent); }
+.home-head h1 {
+  font-family: var(--serif);
+  font-size: clamp(26px, 5vw, 34px);
+  margin: 8px 0 4px;
+}
+.sub { color: var(--ink-soft); font-size: 14px; margin: 0; }
+
+.kyu-list { display: flex; flex-direction: column; gap: 12px; }
+.kyu-card {
+  display: flex; align-items: center; gap: 18px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 18px 20px;
+  text-decoration: none;
+  color: var(--ink);
+  min-height: 76px;
+}
+.kyu-card:active { transform: scale(0.99); }
+.kyu-num {
+  font-family: var(--serif);
+  font-size: 44px;
+  min-width: 64px;
+  text-align: center;
+  color: var(--accent);
+}
+.kyu-body { flex: 1; }
+.kyu-title { font-family: var(--serif); font-size: 20px; letter-spacing: 2px; }
+.kyu-progress { color: var(--ink-soft); font-size: 13px; margin: 2px 0 8px; }
+.bar { height: 4px; background: var(--line); border-radius: 2px; overflow: hidden; }
+.bar-fill { height: 100%; background: var(--ok); border-radius: 2px; }
+.lib-card .kyu-num { font-size: 30px; }
+
+/* ---- шапка внутренних экранов ---- */
+.topbar {
+  display: flex; align-items: center; gap: 14px;
+  margin: 4px 0 18px;
+}
+.back {
+  font-size: 26px; text-decoration: none; color: var(--accent);
+  min-width: 44px; min-height: 44px;
+  display: flex; align-items: center; justify-content: center;
+  border: 1px solid var(--line); border-radius: 12px; background: var(--panel);
+}
+.topbar-title { font-family: var(--serif); font-size: 20px; }
+
+/* ---- программа кю ---- */
+.waza {
+  font-family: var(--serif);
+  font-size: 17px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 6px;
+  margin: 26px 0 14px;
+}
+.group { display: flex; gap: 12px; margin-bottom: 16px; }
+.attack-box {
+  border: 1.5px solid var(--ink);
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-weight: 600;
+  font-size: 14px;
+  min-width: 118px;
+  max-width: 138px;
+  align-self: flex-start;
+  background: var(--panel);
+}
+.items { flex: 1; display: flex; flex-direction: column; gap: 6px; }
+.item {
+  display: flex; align-items: center; gap: 10px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 9px 12px;
+  min-height: 44px;
+  cursor: pointer;
+}
+.item.novideo { opacity: 0.8; }
+.item-name { flex: 1; font-size: 15px; }
+.variant { color: var(--ink-soft); font-size: 13px; }
+.vbadge { font-size: 13px; color: var(--ink-soft); white-space: nowrap; }
+.vbadge-missing { color: var(--accent); }
+.chk {
+  width: 30px; height: 30px; flex: none;
+  border: 1.5px solid var(--line);
+  border-radius: 8px;
+  background: transparent;
+  color: var(--ok);
+  font-size: 16px;
+  cursor: pointer;
+  padding: 0;
+}
+.chk.on { border-color: var(--ok); background: color-mix(in srgb, var(--ok) 12%, transparent); }
+
+/* ---- экран техники ---- */
+.tech-title { font-family: var(--serif); font-size: 22px; margin: 6px 0 14px; }
+.tech-attack { color: var(--accent); }
+.video-wrap { margin: 0 -4px; }
+.video-wrap video {
+  width: 100%;
+  border-radius: 14px;
+  background: #000;
+  border: 1px solid var(--line);
+}
+.novideo-note { color: var(--ink-soft); text-align: center; padding: 40px 0; }
+.know-btn {
+  display: block;
+  width: 100%;
+  margin-top: 16px;
+  padding: 14px;
+  font-size: 16px;
+  border-radius: 12px;
+  border: 1.5px solid var(--line);
+  background: var(--panel);
+  color: var(--ink);
+  cursor: pointer;
+}
+.know-btn.on { border-color: var(--ok); color: var(--ok); font-weight: 600; }
+.credit { color: var(--ink-soft); font-size: 12px; text-align: center; margin-top: 14px; }
+
+.lib-items { margin-top: 4px; }
+
+/* ---- лист тренера ---- */
+.sheet-link {
+  display: block;
+  text-align: center;
+  background: var(--panel);
+  border: 1px dashed var(--line);
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 16px;
+  color: var(--ink-soft);
+  text-decoration: none;
+  font-size: 14px;
+  min-height: 44px;
+  line-height: 24px;
+}
+.motto {
+  text-align: center;
+  color: var(--ink-soft);
+  font-size: 12.5px;
+  font-style: italic;
+  margin-top: 22px;
+}
+.sheet-img {
+  width: 100%;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+  background: #fff;
+}
+
+@media (max-width: 480px) {
+  .group { flex-direction: column; gap: 8px; }
+  .attack-box { max-width: none; min-width: 0; }
+}
+
+/* ---- плеер YouTube и ссылка рядом ---- */
+.yt-blok { position: relative; width: 100%; aspect-ratio: 16 / 9; background: #000; border-radius: 12px; overflow: hidden; }
+.yt-host, .yt-iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.yt-open {
+  display: flex; align-items: center; justify-content: center;
+  margin-top: 10px; min-height: 46px;
+  border: 1px solid var(--line); border-radius: 10px;
+  background: var(--panel); color: var(--accent);
+  text-decoration: none; font-weight: 600; font-size: 15px;
+}
+.yt-repl { position: absolute; inset: 0; margin: 0; border-radius: 0; background: var(--panel); font-size: 16px; }

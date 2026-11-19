@@ -1,0 +1,14 @@
+# сборка
+node_modules/
+android/
+out/
+*.apk
+*.aab
+
+# ключи подписи — только в секретах репозитория
+*.jks
+*.keystore
+key.properties
+
+# системное
+.DS_Store

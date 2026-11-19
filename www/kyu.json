@@ -1,0 +1,999 @@
+{
+  "club": "Aikido klub Marumero · マルメロ",
+  "motto": "marumero (яп. マルメロ) = дуња (срп.) = айва — клуб назван в честь Дуни, дочери Бранко",
+  "videoCredit": "видео: Aikido klub Centar (Beograd), DVD program za polaganje",
+  "kyu": [
+    {
+      "level": 6,
+      "sections": [
+        {
+          "waza": "Tachi waza",
+          "groups": [
+            {
+              "attack": "Katatetori aihanmi",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "omote & ura",
+                  "video": "CFNG4MOrsBM"
+                },
+                {
+                  "tech": "Iriminage",
+                  "var": "omote & ura",
+                  "video": "6easkWAq2A4"
+                },
+                {
+                  "tech": "Kotegaeshi",
+                  "var": "omote & ura",
+                  "video": "SiWxbeGaW94"
+                },
+                {
+                  "tech": "Shihonage",
+                  "var": "omote & ura",
+                  "video": "roh2lBvoP14"
+                }
+              ]
+            },
+            {
+              "attack": "Katatetori gyakuhanmi",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "omote & ura",
+                  "video": "f2r3pZ2vS-w"
+                },
+                {
+                  "tech": "Iriminage",
+                  "var": "omote & ura",
+                  "video": null
+                },
+                {
+                  "tech": "Kotegaeshi",
+                  "var": "omote & ura",
+                  "video": "qevfFE5Gbf8"
+                },
+                {
+                  "tech": "Shihonage",
+                  "var": "omote & ura",
+                  "video": "Rnxt0jMYW-4"
+                }
+              ]
+            },
+            {
+              "attack": "Shomenuchi",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "omote & ura",
+                  "video": "tt-PTW_jlrw"
+                },
+                {
+                  "tech": "Iriminage",
+                  "var": "omote & ura",
+                  "video": null
+                },
+                {
+                  "tech": "Kotegaeshi",
+                  "var": "omote & ura",
+                  "video": "rCY-PlbykJI"
+                },
+                {
+                  "tech": "Shihonage",
+                  "var": "omote & ura",
+                  "video": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "sections": [
+        {
+          "waza": "Tachi waza",
+          "groups": [
+            {
+              "attack": "Katatetori gyakuhanmi",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "omote & ura",
+                  "video": "f2r3pZ2vS-w"
+                },
+                {
+                  "tech": "Udekimenage",
+                  "var": "omote & ura",
+                  "video": "mkpM_bBonPU"
+                },
+                {
+                  "tech": "Shihonage",
+                  "var": "omote & ura",
+                  "video": "Rnxt0jMYW-4"
+                },
+                {
+                  "tech": "Kotegaeshi",
+                  "var": "omote & ura",
+                  "video": "qevfFE5Gbf8"
+                }
+              ]
+            },
+            {
+              "attack": "Katatori",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "omote & ura",
+                  "video": "uJJNUuxAOAc"
+                }
+              ]
+            },
+            {
+              "attack": "Shomenuchi",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "omote & ura",
+                  "video": "tt-PTW_jlrw"
+                },
+                {
+                  "tech": "Nikyo",
+                  "var": "omote & ura",
+                  "video": "L8GO8Js2YUg"
+                },
+                {
+                  "tech": "Kotegaeshi",
+                  "var": "omote & ura",
+                  "video": "rCY-PlbykJI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "waza": "Suwari waza",
+          "groups": [
+            {
+              "attack": "Shomenuchi",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "",
+                  "video": "I4UZQS26E8k"
+                }
+              ]
+            },
+            {
+              "attack": "Katatori",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "",
+                  "video": "w-6Q4aXkR74"
+                }
+              ]
+            },
+            {
+              "attack": "Ryotetori",
+              "items": [
+                {
+                  "tech": "Kokyu ho",
+                  "var": "",
+                  "video": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "sections": [
+        {
+          "waza": "Tachi waza",
+          "groups": [
+            {
+              "attack": "Katatetori gyakuhanmi",
+              "items": [
+                {
+                  "tech": "Nikyo",
+                  "var": "omote & ura",
+                  "video": "vqFJLpB1U2k"
+                },
+                {
+                  "tech": "Tenchinage",
+                  "var": "direktan & ura",
+                  "video": "AaWe-rJxv7o"
+                }
+              ]
+            },
+            {
+              "attack": "Ryotetori",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "omote & ura",
+                  "video": "IoTxUTi6S4o"
+                },
+                {
+                  "tech": "Iriminage",
+                  "var": "omote & ura",
+                  "video": "wufVPIn-1Gw"
+                },
+                {
+                  "tech": "Shihonage",
+                  "var": "omote & ura",
+                  "video": "gmevTV6wruQ"
+                },
+                {
+                  "tech": "Udekimenage",
+                  "var": "omote & ura",
+                  "video": "Wbhvuaj0PMs"
+                },
+                {
+                  "tech": "Tenchinage",
+                  "var": "direktan & ura",
+                  "video": "592OryKq5rE"
+                },
+                {
+                  "tech": "Kokyunage",
+                  "var": "omote & ura",
+                  "video": "LSJ1yMRiupc"
+                }
+              ]
+            },
+            {
+              "attack": "Yokomenuchi",
+              "items": [
+                {
+                  "tech": "Iriminage",
+                  "var": "omote & ura",
+                  "video": "3Qr2Z7qt93E"
+                },
+                {
+                  "tech": "Kotegaeshi",
+                  "var": "omote & ura",
+                  "video": "Znd6Bt8bWsw"
+                },
+                {
+                  "tech": "Shihonage",
+                  "var": "omote & ura",
+                  "video": "kJNDS58o0CM"
+                },
+                {
+                  "tech": "Udekimenage",
+                  "var": "omote & ura",
+                  "video": "xOGS_--FOJQ"
+                }
+              ]
+            },
+            {
+              "attack": "Chudan tsuki",
+              "items": [
+                {
+                  "tech": "Iriminage",
+                  "var": "omote & ura",
+                  "video": "YCKEY2UJkvA"
+                },
+                {
+                  "tech": "Kotegaeshi",
+                  "var": "omote & ura",
+                  "video": "m__396AIzNg"
+                },
+                {
+                  "tech": "Udekimenage",
+                  "var": "omote & ura",
+                  "video": "Setjq24--xI"
+                },
+                {
+                  "tech": "Uchikaiten sankyo",
+                  "var": "omote & ura",
+                  "video": "kbNAEYNEtvk"
+                }
+              ]
+            },
+            {
+              "attack": "Jodan tsuki",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "omote & ura",
+                  "video": "TIgHGIo4wZI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "waza": "Suwari waza",
+          "groups": [
+            {
+              "attack": "Shomenuchi",
+              "items": [
+                {
+                  "tech": "Nikyo",
+                  "var": "omote & ura",
+                  "video": "rvw28_a4BS4"
+                },
+                {
+                  "tech": "Iriminage",
+                  "var": "omote & ura",
+                  "video": "qS3eBulVp6U"
+                }
+              ]
+            },
+            {
+              "attack": "Katatori",
+              "items": [
+                {
+                  "tech": "Nikyo",
+                  "var": "omote & ura",
+                  "video": "rsQ0rdRmfLo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "sections": [
+        {
+          "waza": "Tachi waza",
+          "groups": [
+            {
+              "attack": "Katatetori gyakuhanmi",
+              "items": [
+                {
+                  "tech": "Sankyo",
+                  "var": "omote & ura",
+                  "video": "_mA0RoaIXbE"
+                },
+                {
+                  "tech": "Yonkyo",
+                  "var": "omote & ura",
+                  "video": "ZwqtOTKB0Ug"
+                },
+                {
+                  "tech": "Uchi kaiten nage",
+                  "var": "omote & ura",
+                  "video": "OjJoXGsYWRM"
+                }
+              ]
+            },
+            {
+              "attack": "Ryotetori",
+              "items": [
+                {
+                  "tech": "Kotegaeshi",
+                  "var": "omote & ura",
+                  "video": "lJQW5kQREUQ"
+                }
+              ]
+            },
+            {
+              "attack": "Katate ryotetori",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "omote & ura",
+                  "video": "ipWKCiW6lqw"
+                },
+                {
+                  "tech": "Nikyo",
+                  "var": "omote & ura",
+                  "video": "c1mMQGSzqhE"
+                },
+                {
+                  "tech": "Kotegaeshi",
+                  "var": "omote & ura",
+                  "video": "9j7_7wdXDMk"
+                },
+                {
+                  "tech": "Kokyunage",
+                  "var": "omote & ura",
+                  "video": "zeRAGPpRh6U"
+                }
+              ]
+            },
+            {
+              "attack": "Shomenuchi",
+              "items": [
+                {
+                  "tech": "Yonkyo",
+                  "var": "omote & ura",
+                  "video": "741NtmomlXQ"
+                }
+              ]
+            },
+            {
+              "attack": "Yokomenuchi",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "omote & ura",
+                  "video": "SjEMCgxknAc"
+                },
+                {
+                  "tech": "Tenchinage",
+                  "var": "direktan",
+                  "video": "xwC5wbpHOSU"
+                },
+                {
+                  "tech": "Uchi kaiten sankyo",
+                  "var": "omote & ura",
+                  "video": "zIyZKdFVKlQ"
+                }
+              ]
+            },
+            {
+              "attack": "Chudan tsuki",
+              "items": [
+                {
+                  "tech": "Sankyo",
+                  "var": "omote & ura",
+                  "video": "YpoeJ_JBRE0"
+                },
+                {
+                  "tech": "Hiji kime osae",
+                  "var": "omote & ura",
+                  "video": "cQlWp4vUQEA"
+                },
+                {
+                  "tech": "Soto kaiten nage",
+                  "var": "omote & ura",
+                  "video": "AMJns7HyK9U"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "waza": "Ushiro waza",
+          "groups": [
+            {
+              "attack": "Ryotetori",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "omote & ura",
+                  "video": "CDOdlej5jUc"
+                },
+                {
+                  "tech": "Nikyo",
+                  "var": "omote & ura",
+                  "video": "ca8sV5Tu1mI"
+                },
+                {
+                  "tech": "Sankyo",
+                  "var": "omote & ura",
+                  "video": "YG9MJ2WlQpE"
+                },
+                {
+                  "tech": "Hiji kime osae",
+                  "var": "omote & ura",
+                  "video": "oU1ZnFug4mo"
+                },
+                {
+                  "tech": "Iriminage",
+                  "var": "omote & ura",
+                  "video": "KAt4lI5jeO8"
+                },
+                {
+                  "tech": "Kotegaeshi",
+                  "var": "omote & ura",
+                  "video": "DDeKUPOxaVg"
+                },
+                {
+                  "tech": "Shihonage",
+                  "var": "omote & ura",
+                  "video": "LeaGiWUI-gM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "waza": "Suwari waza",
+          "groups": [
+            {
+              "attack": "Shomenuchi",
+              "items": [
+                {
+                  "tech": "Sankyo",
+                  "var": "omote & ura",
+                  "video": "a7i66m9FMFo"
+                },
+                {
+                  "tech": "Iriminage",
+                  "var": "omote & ura",
+                  "video": "qS3eBulVp6U"
+                },
+                {
+                  "tech": "Kotegaeshi",
+                  "var": "omote & ura",
+                  "video": "YKbPn76Lmwc"
+                }
+              ]
+            },
+            {
+              "attack": "Katatori",
+              "items": [
+                {
+                  "tech": "Sankyo",
+                  "var": "omote & ura",
+                  "video": "bkwTRka5mVM"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "sections": [
+        {
+          "waza": "Tachi waza",
+          "groups": [
+            {
+              "attack": "Yokomenuchi",
+              "items": [
+                {
+                  "tech": "Nikyo",
+                  "var": "omote & ura",
+                  "video": "UMLmMwl4DgU"
+                },
+                {
+                  "tech": "Sankyo",
+                  "var": "omote & ura",
+                  "video": "0KwCxH_RPb0"
+                },
+                {
+                  "tech": "Yonkyo",
+                  "var": "omote & ura",
+                  "video": "w84Iz4Wn8QM"
+                }
+              ]
+            },
+            {
+              "attack": "Katate ryotetori",
+              "items": [
+                {
+                  "tech": "Iriminage",
+                  "var": "omote & ura",
+                  "video": "BW0_G-5nrqA"
+                }
+              ]
+            },
+            {
+              "attack": "Katatori menuchi",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "omote & ura",
+                  "video": "mNnK-7SxX4s"
+                },
+                {
+                  "tech": "Iriminage",
+                  "var": "omote & ura",
+                  "video": "R4MUgxmoLg4"
+                },
+                {
+                  "tech": "Kotegaeshi",
+                  "var": "omote & ura",
+                  "video": "yy5xNUByhA0"
+                },
+                {
+                  "tech": "Shihonage",
+                  "var": "omote",
+                  "video": "5ZfO-FtoyRA"
+                },
+                {
+                  "tech": "Koshinage",
+                  "var": "omote",
+                  "video": "B__0EyJELtg"
+                }
+              ]
+            },
+            {
+              "attack": "Munedori",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "",
+                  "video": "heh7hBuyjfc"
+                },
+                {
+                  "tech": "Sankyo",
+                  "var": "",
+                  "video": "yCSv_QJSWVc"
+                }
+              ]
+            },
+            {
+              "attack": "Jodan tsuki",
+              "items": [
+                {
+                  "tech": "Nikyo",
+                  "var": "",
+                  "video": "DsgsjwWq6uU"
+                },
+                {
+                  "tech": "Sankyo",
+                  "var": "",
+                  "video": "TOtUMYx3Leo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "waza": "Ushiro waza",
+          "groups": [
+            {
+              "attack": "Ryokatatori",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "omote & ura",
+                  "video": "RXLOv4djy1s"
+                },
+                {
+                  "tech": "Nikyo",
+                  "var": "omote & ura",
+                  "video": "Y-GxekGBv0I"
+                },
+                {
+                  "tech": "Sankyo",
+                  "var": "omote & ura",
+                  "video": "5lFX-B9I-0s"
+                },
+                {
+                  "tech": "Iriminage",
+                  "var": "omote & ura",
+                  "video": "vedrqXSm8zQ"
+                },
+                {
+                  "tech": "Kotegaeshi",
+                  "var": "omote & ura",
+                  "video": "sINyt1bU16Y"
+                }
+              ]
+            },
+            {
+              "attack": "Ryohijidori",
+              "items": [
+                {
+                  "tech": "Kotegaeshi",
+                  "var": "omote & ura",
+                  "video": "UuxGpk7VMBc"
+                },
+                {
+                  "tech": "Iriminage",
+                  "var": "omote & ura",
+                  "video": "xVnnd0VQ0wI"
+                }
+              ]
+            },
+            {
+              "attack": "Katatetori kubishime",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "omote & ura",
+                  "video": "udAuQHnRLyM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "waza": "Suwari waza",
+          "groups": [
+            {
+              "attack": "Shomenuchi",
+              "items": [
+                {
+                  "tech": "Yonkyo",
+                  "var": "omote & ura",
+                  "video": "bCrhF-QqWng"
+                },
+                {
+                  "tech": "Soto kaiten nage",
+                  "var": "omote & ura",
+                  "video": "_1qa0590m9E"
+                }
+              ]
+            },
+            {
+              "attack": "Ryokatatori",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "omote & ura",
+                  "video": "ZzeMw9bctc8"
+                }
+              ]
+            },
+            {
+              "attack": "Chudan tsuki",
+              "items": [
+                {
+                  "tech": "Kotegaeshi",
+                  "var": "omote & ura",
+                  "video": "bwiqU1jRZ6I"
+                }
+              ]
+            },
+            {
+              "attack": "Jodan tsuki",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "omote",
+                  "video": "SEniaveGdYE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "sections": [
+        {
+          "waza": "Tachi waza",
+          "groups": [
+            {
+              "attack": "Munedori menuchi",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "omote & ura",
+                  "video": "ayF7ZyjMyhE"
+                },
+                {
+                  "tech": "Nikyo",
+                  "var": "omote & ura",
+                  "video": "c4S3LZw6bzQ"
+                },
+                {
+                  "tech": "Sankyo",
+                  "var": "omote & ura",
+                  "video": "k1vB83TS3v8"
+                },
+                {
+                  "tech": "Koshinage",
+                  "var": "omote",
+                  "video": "3Ji-8-UB5UU"
+                }
+              ]
+            },
+            {
+              "attack": "Jodan tsuki",
+              "items": [
+                {
+                  "tech": "Sankyo",
+                  "var": "omote & ura",
+                  "video": "TOtUMYx3Leo"
+                },
+                {
+                  "tech": "Iriminage",
+                  "var": "omote & ura",
+                  "video": "RfbT1UTDEHI"
+                },
+                {
+                  "tech": "Shihonage",
+                  "var": "omote & ura",
+                  "video": "SXZd3NNxbFE"
+                },
+                {
+                  "tech": "Soto kaiten nage",
+                  "var": "omote & ura",
+                  "video": "Iz6-r_3e-yc"
+                },
+                {
+                  "tech": "Ushiro kiriotoshi",
+                  "var": "direktan",
+                  "video": "K5axKND2AE4"
+                },
+                {
+                  "tech": "Koshinage",
+                  "var": "omote & ura",
+                  "video": "oNh4noLIYpo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "waza": "Ushiro waza",
+          "groups": [
+            {
+              "attack": "Ryotetori",
+              "items": [
+                {
+                  "tech": "Yonkyo",
+                  "var": "omote & ura",
+                  "video": "2m2L8ekdvFA"
+                },
+                {
+                  "tech": "Kokyunage",
+                  "var": "omote & ura",
+                  "video": "IZFzRpT0vfg"
+                },
+                {
+                  "tech": "Koshinage",
+                  "var": "direktan",
+                  "video": "Nln7DtP9wIw"
+                }
+              ]
+            },
+            {
+              "attack": "Katatetori kubishime",
+              "items": [
+                {
+                  "tech": "Sankyo",
+                  "var": "omote & ura",
+                  "video": "jfu3lC49G_4"
+                },
+                {
+                  "tech": "Hiji kime osae",
+                  "var": "omote & ura",
+                  "video": "otYdJGmgLvw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "waza": "Suwari waza",
+          "groups": [
+            {
+              "attack": "Ryokatatori",
+              "items": [
+                {
+                  "tech": "Sankyo",
+                  "var": "omote & ura",
+                  "video": "NkTNkrE6Pwc"
+                },
+                {
+                  "tech": "Yonkyo",
+                  "var": "omote & ura",
+                  "video": "WCnK0QXzWlo"
+                }
+              ]
+            },
+            {
+              "attack": "Katatori menuchi",
+              "items": [
+                {
+                  "tech": "Iriminage",
+                  "var": "omote & ura",
+                  "video": "xd2mooKS2ac"
+                },
+                {
+                  "tech": "Kotegaeshi",
+                  "var": "omote & ura",
+                  "video": "JJeEU_OUudY"
+                },
+                {
+                  "tech": "Kokyunage",
+                  "var": "ura",
+                  "video": "tiv1dwGrgMc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "waza": "Hanmi hantachi waza",
+          "groups": [
+            {
+              "attack": "Katatetori",
+              "items": [
+                {
+                  "tech": "Ikkyo",
+                  "var": "omote & ura",
+                  "video": "5AFFJxAUVQo"
+                },
+                {
+                  "tech": "Shihonage",
+                  "var": "omote & ura",
+                  "video": "RoI9lQ9fb0I"
+                },
+                {
+                  "tech": "Uchi kaiten nage",
+                  "var": "omote & ura",
+                  "video": "aZuPb4qzlRE"
+                }
+              ]
+            },
+            {
+              "attack": "Ryotetori",
+              "items": [
+                {
+                  "tech": "Shihonage",
+                  "var": "omote & ura",
+                  "video": "sF9JdSdGSUE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "library": [
+    {
+      "name": "Ikkyo",
+      "video": "j-7No8FWM_U"
+    },
+    {
+      "name": "Nikkyo",
+      "video": "2A1BYxSdbsU"
+    },
+    {
+      "name": "Sankyo",
+      "video": "8kK9jDos_ds"
+    },
+    {
+      "name": "Kotegaeshi",
+      "video": "cNP7fWwuq8g"
+    },
+    {
+      "name": "Iriminage",
+      "video": "jd_X13lFk0k"
+    },
+    {
+      "name": "Shihonage",
+      "video": "KnShVPi3Dj4"
+    },
+    {
+      "name": "Tenchinage",
+      "video": "OHxib8vBYLY"
+    },
+    {
+      "name": "Udekimenage",
+      "video": "hebnJHjGDU0"
+    },
+    {
+      "name": "Koshinage",
+      "video": "DOIm3jlpGHc"
+    },
+    {
+      "name": "Kokyunage",
+      "video": "B8-2ytDsW1w"
+    },
+    {
+      "name": "Aiki ken (меч)",
+      "video": "BeYPsdovXLQ"
+    },
+    {
+      "name": "Aiki jo (дзё)",
+      "video": "PpOoNKiv8oI"
+    },
+    {
+      "name": "Tanto dori (нож)",
+      "video": "JvkI9WNHbsk"
+    },
+    {
+      "name": "Taijutsu 1",
+      "video": "DtGt-6v7YXs"
+    },
+    {
+      "name": "Taijutsu 2",
+      "video": "sBXHSjh7RAs"
+    },
+    {
+      "name": "DVD program (фрагмент)",
+      "video": "g3L0J37Tu9M"
+    }
+  ],
+  "source": "программы: рукописные листы тренера; ролики: канал клуба на YouTube"
+}

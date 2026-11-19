@@ -1,0 +1,16 @@
+{
+  "name": "aikido-sekciya",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Приложение «Айкидо» для секции: программа кю и «Другие приёмы» с роликами канала клуба на YouTube — страница GitHub Pages и APK (Capacitor 8)",
+  "scripts": {
+    "podgotovka-android": "node scripts/podgotovit-android.cjs"
+  },
+  "dependencies": {
+    "@capacitor/android": "8.5.3",
+    "@capacitor/core": "8.5.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "8.5.3"
+  }
+}
