@@ -1,7 +1,7 @@
 {
   "name": "Айкидо — Program za polaganje",
   "short_name": "Айкидо",
-  "description": "Программы аттестации 6→1 кю и «Другие приёмы» с роликами канала клуба",
+  "description": "Программы аттестации 6→1 кю и «Другие приёмы» с роликами канала Aikido klub Centar (Белград)",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
